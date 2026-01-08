@@ -1,3 +1,4 @@
+# seekr_checkpoint1
 📌 Project Overview
 
 Seekr AI is an AI-powered search and chat application built using Flutter and Firebase.

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879830721612",
+    "project_id": "seekr-ai-ee45d",
+    "storage_bucket": "seekr-ai-ee45d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879830721612:android:a8aa9f5b4dfffd3cd080e9",
+        "android_client_info": {
+          "package_name": "com.example.seekr_checkpoint1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEXDyAKysKxpUPIZNuvXT3hdxd-ZvZzlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
